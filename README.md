@@ -1,6 +1,16 @@
 # 163music
 
 > A Vue.js project
+### 页面展示
+#### 首页
+![image](https://github.com/Kathy0/Music/blob/master/img/1.png)
+#### 专辑页面
+![image](https://github.com/Kathy0/Music/blob/master/img/2.png)
+#### 歌曲播放
+![image](https://github.com/Kathy0/Music/blob/master/img/3.png)
+#### 歌词显示
+![image](https://github.com/Kathy0/Music/blob/master/img/4.png)
+
 
 ## Build Setup
 
